@@ -1,0 +1,2 @@
+I just try to to the mining with a random sample of the dataset since the entire dataset are 3214874 transaction. I did a subset sampling with 600000 that was the maximum that i could without crashing my pc.
+The same with the threshold i only coul go as low as 0.01 lower than that crashes my pc. If you guys want to test with a bigger sampling size or even try with the full dataset in your mac´s.
